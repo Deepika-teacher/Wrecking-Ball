@@ -9,6 +9,7 @@ class Box{
         this.width=100;
         this.height=100;
         World.add(myWorld,this.body);
+        //loading Image
         this.image=loadImage("giftBox.jpg");
     }
 
