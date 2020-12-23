@@ -9,7 +9,7 @@ class Box{
         this.width=100;
         this.height=100;
         World.add(myWorld,this.body);
-        this.image=loadImage("giftbox.jpg");
+        this.image=loadImage("Wrecking-Ball/giftbox.jpg");
     }
 
     display(){
